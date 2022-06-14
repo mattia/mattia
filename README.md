@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🇮🇹 I live in Italy
+- 🌍 Remote work supporter
+- 💻 Curious software developer
+- 📚 Love reading books
 <!--
 **mattia/mattia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
